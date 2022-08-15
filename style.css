@@ -140,11 +140,13 @@ margin-top: 0;
 
     .list1 a,input
     {
-      font-size:smaller;
+      
       margin-left: 0px;
       margin-right: 0px;
     }
-  }
+    
+    }
+  
   @media only screen and (min-width: 992px)
   {
     .list1 a,input
@@ -162,8 +164,9 @@ margin-top: 0;
 
   @media only screen and (min-width: 1400px)
   {
-    .list1 a,input
+    .list1 a
     {
-      margin-left: 45px;
+      margin-left: 65px;
     }
   }
+  
